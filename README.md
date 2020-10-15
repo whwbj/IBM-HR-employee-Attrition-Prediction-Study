@@ -89,8 +89,8 @@ AUC a.k.a area under curve, the higher the value is the less randomness the mode
 ## Conclusions
 
 *It is quite obvious and it is a conclusion that everyone will accept, which is paying more and working less may be the eltimate dream for all employees.
-Overtime, monthlyrate, age, years of works they all are very important feature that will affect the attrition activity and performance of an employee. So it will be quite efficient to apprach to those higher risk employees and better communicate with them, so that their intention of attrition could be resolved. It will be beneficial for both employer and employee. Otherwise, plan ahead of time to hire new candidate will be an alternative option. *
+Overtime, monthlyrate, age, years of works they all are very important feature that will affect the attrition activity and performance of an employee. So it will be quite efficient to apprach to those higher risk employees and better communicate with them, so that their intention of attrition could be resolved. It will be beneficial for both employer and employee. Otherwise, plan ahead of time to hire new candidate will be an alternative option.*
 
 ## Future Plans and Works
 
-*This is a complete flow for machine learning and there is still much of work to do. We will need to spend more time on tuning the model so that we will have a more robust model that could be deployed in the future. If possible, we could collect more data and more feaetures so that the model could learn more from data and make more accurate predictions. *
+*This is a complete flow for machine learning and there is still much of work to do. We will need to spend more time on tuning the model so that we will have a more robust model that could be deployed in the future. If possible, we could collect more data and more feaetures so that the model could learn more from data and make more accurate predictions.*
