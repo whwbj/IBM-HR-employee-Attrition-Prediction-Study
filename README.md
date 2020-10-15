@@ -92,3 +92,6 @@ Overtime, monthlyrate, age, years of works they all are very important feature t
 ## Future Plans and Works
 
 *This is a complete flow for machine learning and there is still much of work to do. We will need to spend more time on tuning the model so that we will have a more robust model that could be deployed in the future. If possible, we could collect more data and more feaetures so that the model could learn more from data and make more accurate predictions. *
+
+## Dataset source
+- https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
