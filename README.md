@@ -49,7 +49,7 @@ From this matrix we could be able to see correlations between each feature and b
 #### Naive Approach
 ![Naive Approach](https://github.com/whwbj/IBM-HR-employee-Attrition-Prediction-Study/blob/main/graphs/draft.png)
 
-Naive approach is to apply features to the models without hyperparameter tuning. We could roughly get the result of performance of each model. Here we use the linear model, tree based model, ensemble learning model and deep learning model.
+Naive approach is to apply features to the models without hyperparameter tuning. We could roughly get the result of performance of each model. Here we use the **linear model, tree based model, ensemble learning model and deep learning model**.
 
 #### Hyperparameter Tuning
 
@@ -75,7 +75,7 @@ Naive approach is to apply features to the models without hyperparameter tuning.
 *ROC analysis is another metric to evaluation how well the model could separate the true label and false lablel accurately.*
 ![roc](https://github.com/whwbj/IBM-HR-employee-Attrition-Prediction-Study/blob/main/graphs/ROC.png)
 
-AUC aka area under curve, the higher the value is the less randomness the model will generate for the correct true or false label here is yes or no. The ideal AUC will be 1 which will fill up the whole square and worst is the triangle that goes diagnoal across the squre.
+AUC a.k.a area under curve, the higher the value is the less randomness the model will generate for the correct true or false label here is yes or no. The ideal AUC will be 1 which will fill up the whole square and worst is the triangle that goes diagnoal across the squre.
 
 ## Feature Importance
 
